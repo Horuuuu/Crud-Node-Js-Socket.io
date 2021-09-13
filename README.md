@@ -5,4 +5,4 @@ Practica de Node Js y Websockets :persevere:
 ![](src/public/img/crudnode.gif)
 
 
-![](src/public/img/nodesocket.png)
+<img src="src/public/img/nodesocket.png" width=250px>
